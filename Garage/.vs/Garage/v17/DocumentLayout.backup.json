@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Unity games\\Garage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEAA657-824F-3162-3482-5D0776F29F08}|Assembly-CSharp.csproj|C:\\Work\\Unity games\\Garage\\assets\\scripts\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEAA657-824F-3162-3482-5D0776F29F08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEAA657-824F-3162-3482-5D0776F29F08}|Assembly-CSharp.csproj|c:\\work\\unity games\\garage\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEAA657-824F-3162-3482-5D0776F29F08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEAA657-824F-3162-3482-5D0776F29F08}|Assembly-CSharp.csproj|C:\\Work\\Unity games\\Garage\\assets\\scripts\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEAA657-824F-3162-3482-5D0776F29F08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEAA657-824F-3162-3482-5D0776F29F08}|Assembly-CSharp.csproj|C:\\Work\\Unity games\\Garage\\assets\\scripts\\doorup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEAA657-824F-3162-3482-5D0776F29F08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveObject.cs",
+              "DocumentMoniker": "C:\\Work\\Unity games\\Garage\\Assets\\Scripts\\MoveObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveObject.cs",
+              "ToolTip": "C:\\Work\\Unity games\\Garage\\Assets\\Scripts\\MoveObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:05:03.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Work\\Unity games\\Garage\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMove.cs",
+              "ToolTip": "C:\\Work\\Unity games\\Garage\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMove.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:14:36.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorUp.cs",
+              "DocumentMoniker": "C:\\Work\\Unity games\\Garage\\Assets\\Scripts\\DoorUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorUp.cs",
+              "ToolTip": "C:\\Work\\Unity games\\Garage\\Assets\\Scripts\\DoorUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:45:22.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraMove.cs",
+              "DocumentMoniker": "C:\\Work\\Unity games\\Garage\\Assets\\Scripts\\CameraMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMove.cs",
+              "ToolTip": "C:\\Work\\Unity games\\Garage\\Assets\\Scripts\\CameraMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:50:38.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
